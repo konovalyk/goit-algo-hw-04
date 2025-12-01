@@ -34,3 +34,6 @@ Thumbs.db
 
 # Python local settings
 .pytest_cache/
+
+# testing
+tests/
